@@ -1,3 +1,12 @@
 body {
-    background-color: rgb(255, 79, 114);
+    background-color: rgb(255, 218, 226);
 }
+
+
+body.v-art {
+    background-color: #ffffe3;
+  }
+
+body.d-art {
+    background-color: #69e492;
+  }
